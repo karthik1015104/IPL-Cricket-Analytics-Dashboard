@@ -123,7 +123,7 @@ Or open directly in [Google Colab](https://colab.research.google.com/).
 
 ## Dashboard Preview
 
-![IPL Dashboard](outputs/ipl_dashboard.png)
+![IPL Dashboard](Outputs/ipl_dashboard.png)
 
 ---
 
